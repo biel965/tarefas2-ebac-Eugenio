@@ -1,0 +1,8 @@
+Programação Orientada a Objeto:
+  A programação orientada a objeto é baseadas em coisas reais representadas no software, 
+onde os desenvolvedores dividem os códigos em partes pequenas, permitindo uma melhor compreensão
+do código e versatilidade.
+
+Programação Procedural:
+  A programação consiste em códigos repetitivos, não é tanto utilizado pós os códigos ficam
+muito grande, dificultando encontrar algum elemento ou algum erro no sistema.
